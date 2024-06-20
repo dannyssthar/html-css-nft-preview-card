@@ -1,0 +1,62 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  font-family: "Outfit", sans-serif;
+}
+.container {
+  width: 20%;
+  background-color: hsl(216, 50%, 16%);
+  height: 90%;
+  margin: 8rem auto;
+  min-width: 300px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 20px, -10px 10px 20px;
+}
+.image {
+  width: 90%;
+  margin: 1rem;
+  border-radius: 10px;
+}
+h1 {
+  margin-left: 1rem;
+  color: white;
+  margin-top: 1px;
+}
+.equilibrium {
+  margin-left: 1rem;
+  color: hsl(215, 51%, 70%);
+  font-size: 17px;
+}
+.mini {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid hsl(215, 51%, 70%);
+  width: 90%;
+  margin-left: 1rem;
+  margin-top: -1rem;
+}
+.eth {
+  padding-bottom: 0.5rem;
+  color: hsl(178, 100%, 50%);
+  font-weight: bold;
+}
+.time {
+  color: hsl(215, 51%, 70%);
+}
+.avatar {
+  width: 10%;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin: 1rem;
+}
+.henry {
+  margin-top: 1.5rem;
+  color: hsl(215, 51%, 70%);
+}
+span {
+  color: white;
+}
+.foot {
+  display: flex;
+}
+@media (max-width: 500px) {
+}
